@@ -13,7 +13,7 @@ I am constantly exploring new techniques and tools to enhance my data analysis s
 - [Project 1]([link-to-your-project](https://www.linkedin.com/posts/sasikaran12_dataanalysis-excel-salesreporting-activity-7245126749062103041-PblY?utm_source=share&utm_medium=member_desktop)) - Data analysis with Microsoft Excel on Vrinda Store's annual sales.
 
 ## Connect with me
-- [LinkedIn](https://www.linkedin.com/in/sasikaran12?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7WsIeZyFQCWiLAtYoA%2FAlw%3D%3D)
+- Click me-> [LinkedIn](https://www.linkedin.com/in/sasikaran12?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7WsIeZyFQCWiLAtYoA%2FAlw%3D%3D)
 - Email: asasikaran2@gmail.com
 
 Feel free to reach out!
