@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Sasikaran!
 
-I'm an aspiring data analyst with a passion to transform complex datasets into meaningful insights and impactful visualizations. I love working with Python, SQL, Microsoft: Power BI, Excel.
+I'm an aspiring data analyst with a passion to transform complex datasets into meaningful insights and impactful visualizations. I love working with Python, SQL,and Microsoft: Power BI, Excel.
 
 I am constantly exploring new techniques and tools to enhance my data analysis skills, and I am excited to collaborate on projects that make a difference!
 
