@@ -7,7 +7,7 @@ I am constantly exploring new techniques and tools to enhance my data analysis s
 ## Skills
 - Database: SQL
 - Tools: Microsoft Power Business Intelligence,Tableau, Microsoft Excel, and GitHub
-- Programming Languages: Python
+- Programming Languages: Python (libraries)
 
 ## Projects
 - [Project 1]([link-to-your-project](https://www.linkedin.com/posts/sasikaran12_dataanalysis-excel-salesreporting-activity-7245126749062103041-PblY?utm_source=share&utm_medium=member_desktop)) - Data analysis with Microsoft Excel on Vrinda Store's annual sales.
