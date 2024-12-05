@@ -5,7 +5,7 @@ Python.
 I am constantly exploring new techniques and tools to enhance my data analysis skills!
 
 ## Skills
-- Database: SQL
+- Database: SQL(MySQL)
 - Tools: Microsoft Power Business Intelligence,Tableau, Microsoft Excel, and GitHub
 - Programming Languages: Python (libraries)
 
